@@ -1,7 +1,7 @@
 # AdvancePDFApp
 Advance PDF Application
 you can download the app by following link 
-[Download Link](https://github.com/DevRishabhSrivastava/AdvancePDFApp/blob/master/app/build/outputs/apk/debug/app-debug.apk).
+[Download Link](https://github.com/DevRishabhSrivastava/AdvancePDFApp/raw/master/app/build/outputs/apk/debug/app-debug.apk).
 ![This is an image](https://github.com/DevRishabhSrivastava/AdvancePDFApp/blob/master/app/src/main/res/drawable/screenshot_one.png)
 ![This is an image](https://github.com/DevRishabhSrivastava/AdvancePDFApp/blob/master/app/src/main/res/drawable/screenshot_two.png)
 ![This is an image](https://github.com/DevRishabhSrivastava/AdvancePDFApp/blob/master/app/src/main/res/drawable/screenshot_three.png)
